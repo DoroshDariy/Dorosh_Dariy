@@ -6,7 +6,7 @@ namespace Modul2_DOROSH
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellукпрупкупукпo Wtfdreherhorld!");
+            Console.WriteLine("Hellукпрупкупуqfqfкпo Wtfdreherhorld!");
         }
     }
 }
